@@ -1,0 +1,3 @@
+[lfs]
+	url = https://lfsserverss-test7-app.azurewebsites.net/jsoza/lfs-branches-v14
+	locksverify = false
